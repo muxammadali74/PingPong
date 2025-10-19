@@ -6,7 +6,7 @@ A simple **PingPong** arcade game made with **Python + Pygame**.
 
 ---
 
-### 🚀 Запуск
+### 🚀 
 ```bash
 pip install -r requirements.txt
 python main.py
