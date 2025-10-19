@@ -1,0 +1,8 @@
+WIDTH = 800
+HEIGHT = 500
+FPS = 30
+TILE_SIZE = 50
+#colors
+PINK = (176,59,178)
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
